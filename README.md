@@ -1,1 +1,2 @@
-# COINS-Start-Manual1
+﻿# COINS-Start-Manual1 あああ
+
