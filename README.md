@@ -13,7 +13,11 @@
 
 - [**ステップ 2. AI サーバーマシンをセットアップして筑波大学のグローバル IPv4 アドレスと大学サブドメインを付与し、簡単な Web サーバを立ち上げよう**](./Step2_Server_Machine_Setup_and_WebServer/Step2_Server_Machine_Setup_and_WebServer.md)
 
-- ステップ 3. いよいよ AI サービスの構築方法を解説。現在教材制作中。数日間お待ちください。それまではステップ 1, 2 をお試しください。
+- [**ステップ 3. GPU ドライバをインストールしよう**](./Step3_Gpu_Driver_Install/Step3_Gpu_Driver_Install.md)
+
+- [**ステップ 4. Nginx の設定を追加しよう**](./Step4_Nginx_Add_Config/Step4_Nginx_Add_Config.md)
+
+- [**ステップ 5. ChatGPT 型のローカル AI を動作させてみよう**](./Step5_Run_GPT_LLM_Server/Step5_Run_GPT_LLM_Server.md)
 
 
 ## 受講者の方々へのお願い
